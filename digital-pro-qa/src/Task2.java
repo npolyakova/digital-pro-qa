@@ -5,7 +5,7 @@ public class Task2 {
     //    - сумму его цифр;
     //    - произведение его цифр.
     public static void main(String[] args) {
-        int number = 34;
+        int number = 39;
 
         int decimals = number / 10;
         int units = number % 10;
